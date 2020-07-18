@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am still testing this Readme!
+
+<p>
+<font color="#DC143C">I will be joining the <a href="https://cse.nd.edu/" style="color:#DC143C;">CSE Department</a> at <a href="https://www.nd.edu/" style="color:#B22222;font-weight:bold;">University of Notre Dame</a> as a Ph.D. student starting in Fall 2020, advised by Prof. <a href="https://www3.nd.edu/~nchawla/" style="color:#B22222;font-weight:bold;">Nitesh Chawla</a>. I am open to research opportunities and collaborations. Please <a href="mailto:eddie.tian@nyu.edu" style="color:#B22222;text-decoration:underline;font-weight:bold;">drop me an email</a> if you would like to work with me!</font>
+</p>
+
+\[ <img src="images/icons/link.svg" width="16"> [http://tianyijun.com](http://tianyijun.com) \| <img src="images/logos/google_scholar.svg" width="16"> [Google Scholar](https://scholar.google.com/citations?hl=en&user=uYzCbpUAAAAJ) \| <img src="images/logos/linkedin.svg" width="16"> [LinkedIn](https://www.linkedin.com/in/yijun-tian) \| <img src="images/icons/email.svg" width="16"> [eddie.tian@nyu.edu](mailto:eddie.tian@nyu.edu) \]
 
 <!--
 **meettyj/meettyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
