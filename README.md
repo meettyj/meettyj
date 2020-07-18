@@ -6,7 +6,7 @@
 - 2019, advised by <img src="http://tianyijun.com/images/icons/like.svg" width="16"> [Rumi Chunara](https://engineering.nyu.edu/faculty/rumi-chunara).
 - 2018, advised by <img src="http://tianyijun.com/images/icons/like.svg" width="16"> [Adam Meyers](https://nlp.cs.nyu.edu/people/meyers.html).
 
-##### \[ <img src="http://tianyijun.com/images/icons/link.svg" width="16"> [http://tianyijun.com](http://tianyijun.com) \| <img src="http://tianyijun.com/images/logos/google_scholar.svg" width="16"> [Google Scholar](https://scholar.google.com/citations?hl=en&user=uYzCbpUAAAAJ) \| <img src="http://tianyijun.com/images/logos/linkedin.svg" width="16"> [LinkedIn](https://www.linkedin.com/in/yijun-tian) \| <img src="http://tianyijun.com/images/icons/email.svg" width="16"> [eddie.tian@nyu.edu](mailto:eddie.tian@nyu.edu) \]
+\[ <img src="http://tianyijun.com/images/icons/link.svg" width="16"> [http://tianyijun.com](http://tianyijun.com) \| <img src="http://tianyijun.com/images/logos/google_scholar.svg" width="16"> [Google Scholar](https://scholar.google.com/citations?hl=en&user=uYzCbpUAAAAJ) \| <img src="http://tianyijun.com/images/logos/linkedin.svg" width="16"> [LinkedIn](https://www.linkedin.com/in/yijun-tian) \| <img src="http://tianyijun.com/images/icons/email.svg" width="16"> [eddie.tian@nyu.edu](mailto:eddie.tian@nyu.edu) \]
 
 ### Research Interest
 
