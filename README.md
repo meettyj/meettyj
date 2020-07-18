@@ -1,6 +1,6 @@
 ### Hi there 👋 I am open to research opportunities and collaborations!
 #### What’s New
-- 2020, Go Irish! advised by <img src="images/icons/like.svg" width="16"> [Nitesh Chawla](https://niteshchawla.nd.edu/).
+- 2020, Go Irish! advised by <img src="http://tianyijun.com/images/icons/like.svg" width="16"> [Nitesh Chawla](https://niteshchawla.nd.edu/).
 - Spotlight Paper at ICWSM 2020
 - Best Paper at ICAIS 2019
 
