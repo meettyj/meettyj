@@ -12,9 +12,9 @@
 ### Research Interest
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Computational%20Social%20Science-red" alt="Network Science">
-  <img src="https://img.shields.io/badge/-Network%20Science-ecc429" alt="Data Science">
-  <img src="https://img.shields.io/badge/-NLP-blue" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/-Network%20Science-red" alt="Network Science">
+  <img src="https://img.shields.io/badge/-Data%20Science-ecc429" alt="Data Science">
+  <img src="https://img.shields.io/badge/-Machine%20Learning-blue" alt="Machine Learning">
 
 
 </p>
