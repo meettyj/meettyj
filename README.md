@@ -1,5 +1,6 @@
 ## Hi there 👋 I am open to research opportunities and collaborations!
 ### What’s New
+- 2021, Paper accepted at CIKM.
 - 2020, Go Irish! advised by <img src="http://tianyijun.com/images/icons/like.svg" width="16"> [Nitesh Chawla](https://niteshchawla.nd.edu/).
 - 2020, Spotlight Paper at ICWSM.
 - 2019, Best Paper at ICAIS.
@@ -11,17 +12,20 @@
 ### Research Interest
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Computational%20Social%20Science-red" alt="Computational Social Science">
-  <img src="https://img.shields.io/badge/-Network%20Science-ecc429" alt="Network Science">
-  <img src="https://img.shields.io/badge/-NLP-blue" alt="NLP">
-  <img src="https://img.shields.io/badge/-Data%20Mining-24a591" alt="Data Mining">
-  <img src="https://img.shields.io/badge/-Machine%20Learning-414c4d" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/-Computational%20Social%20Science-red" alt="Network Science">
+  <img src="https://img.shields.io/badge/-Network%20Science-ecc429" alt="Data Science">
+  <img src="https://img.shields.io/badge/-NLP-blue" alt="Machine Learning">
+
 
 </p>
 
 
 
 <!--
+
+  <img src="https://img.shields.io/badge/-Data%20Mining-24a591" alt="Data Mining">
+  <img src="https://img.shields.io/badge/-Machine%20Learning-414c4d" alt="">
+
 **meettyj/meettyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
