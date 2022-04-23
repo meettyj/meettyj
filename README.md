@@ -1,7 +1,7 @@
 ## Hi there 👋 I am open to collaborations!
 
 <!-- ## Do research with me? -->
-My research interest lies in Graph Neural Networks, Representation Learning, Recommendation, and Data Science. I like to work with different people on different projects. Please drop me an email if you want to collaborate :)
+My research interest lies in Graph Neural Networks, Representation Learning, Recommendation, and Data Science. I like working with different people on different projects. Please drop me an email if you want to collaborate :)
 
 <!-- ### What’s New
 - 2022, One aper accepted at Frontiers.
