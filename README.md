@@ -1,12 +1,16 @@
-## Hi there 👋 I am open to research opportunities and collaborations!
-### What’s New
-- 2021, Paper accepted at Frontiers.
+## Hi there 👋 I am open to collaborations!
+
+<!-- ## Do research with me? -->
+My research interest lies in Graph Neural Networks, Representation Learning, Recommendation, and Data Science. I like to work with different people on different projects. Please drop me an email if you want to collaborate :)
+
+<!-- ### What’s New
+- 2022, One aper accepted at Frontiers.
 - 2021, Paper accepted at CIKM.
 - 2020, Go Irish! advised by <img src="http://tianyijun.com/images/icons/like.svg" width="16"> [Nitesh Chawla](https://niteshchawla.nd.edu/).
 - 2020, Spotlight Paper at ICWSM.
-- 2019, Best Paper at ICAIS.
-- 2019, advised by <img src="http://tianyijun.com/images/icons/like.svg" width="16"> [Rumi Chunara](https://engineering.nyu.edu/faculty/rumi-chunara).
-- 2018, advised by <img src="http://tianyijun.com/images/icons/like.svg" width="16"> [Adam Meyers](https://nlp.cs.nyu.edu/people/meyers.html).
+- 2019, Best Paper at ICAIS. -->
+<!-- - 2019, advised by <img src="http://tianyijun.com/images/icons/like.svg" width="16"> [Rumi Chunara](https://engineering.nyu.edu/faculty/rumi-chunara). -->
+<!-- - 2018, advised by <img src="http://tianyijun.com/images/icons/like.svg" width="16"> [Adam Meyers](https://nlp.cs.nyu.edu/people/meyers.html). -->
 
 \[ <img src="http://tianyijun.com/images/icons/link.svg" width="16"> [http://tianyijun.com](http://tianyijun.com) \| <img src="http://tianyijun.com/images/logos/google_scholar.svg" width="16"> [Google Scholar](https://scholar.google.com/citations?user=dbaBgV0AAAAJ) \| <img src="http://tianyijun.com/images/logos/linkedin.svg" width="16"> [LinkedIn](https://www.linkedin.com/in/yijun-tian) \]
 
@@ -16,14 +20,12 @@
 ### Research Interest
 -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/-Network%20Science-red" alt="Network Science">
   <img src="https://img.shields.io/badge/-Machine%20Learning-ecc429" alt="Machine Learning">
   <img src="https://img.shields.io/badge/-Data%20Science-blue" alt="Data Science">
-
-
 </p>
-
+ -->
 
 
 <!--
